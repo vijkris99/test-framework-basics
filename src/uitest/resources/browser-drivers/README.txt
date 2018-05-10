@@ -1,0 +1,1 @@
+Place the driver executables for Chrome and IE in this folder -> they can be downloaded from seleniumhq.org
